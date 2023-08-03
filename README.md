@@ -5,6 +5,7 @@ In this project, I designed a circuit which is deployed to Mumbai Network
 
 # Circuit and Question
 Check the circuit.png file in repository; you will get the circuit image!
+![Uploading Assessment_b05f6ed658.png…](https://authoring.metacrafters.io/assets/cms/Assessment_b05f6ed658.png?updated_at=2023-02-24T00:00:37.278Z)
 
 Imagine that you wake up, check your email, and you see an interesting task: Polygon is asking you to design a new zkSNARK circuit that implements some logical operations. You need to implement the circuit and deploy a verifier on-chain to verify proofs generated from this circuit
 
@@ -14,7 +15,10 @@ Your goal is to prove you know the inputs A (0) & B (1) that yield a 0 output.
 # Explaination of What I did.
 I formulated the code according to circuit
 ## Code:
-Use circuits/
+Use https://github.com/shrutinarad16/Metacrafter_Polygon_Module_3/blob/main/circuits/multiplier/circuit.circom this link for accessing code.
+
+Or, Access circuits folder where you have to go in multiplier and finally visit circuits.
+
 ## Installations and commands on Terminal
 I used gitpod.io for this project
 Commands are mentioned below!!
